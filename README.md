@@ -37,7 +37,7 @@ Liệt kê các **yêu cầu nâng cao** đã thực hiện:
 
 Link ảnh GIF demo ứng dụng:
 
-![Demo.gif](demo.gif)
+![C:\Users\TRONGSANG\Desktop\Demo.gif](demo.gif)
 
 Tạo ảnh GIF với chương trình [LiceCap](http://www.cockos.com/licecap/).
 
